@@ -2,7 +2,6 @@
 # "marca" : "ford",
 # "modelo" : "mustang",
 # "año" : 2022
-# }
 
 # print(auto["modelo"])
 
